@@ -1,0 +1,24 @@
+#video {
+    padding: 0;
+    margin-left: -5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: flex !important;
+    text-align: center !important;
+    width: 100% !important;
+    height: auto !important;
+}
+
+.video-container {
+    width: 80%;
+    height: auto;
+    align-self: center !important;
+}
+
+.contact-section {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
