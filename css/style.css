@@ -1,18 +1,12 @@
-#video {
-    padding: 0;
-    margin-left: -5px;
+.container {
+    padding-left: 0;
+    margin-left: 10px;
     margin-right: 10px;
     margin-top: 10px;
     display: flex !important;
     text-align: center !important;
     width: 100% !important;
     height: auto !important;
-}
-
-.video-container {
-    width: 80%;
-    height: auto;
-    align-self: center !important;
 }
 
 .contact-section {

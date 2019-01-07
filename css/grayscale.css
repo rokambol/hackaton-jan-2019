@@ -3,10 +3,6 @@
  * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
- 
- .container {
-   margin: 0 !important;
- }
 
 #mainNav {
   min-height: 56px;
@@ -123,14 +119,6 @@
   font-size: 1rem;
 }
 
-.video {
-  margin: 20px 0;
-  display: flex;
-  justify-content: center;
-  width: 90%;
-  height: auto;
-}
-
 @media (min-width: 768px) {
   .masthead h1 {
     font-size: 4rem;
@@ -193,7 +181,7 @@
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 1rem 0;
 }
 
 .projects-section .featured-text {
